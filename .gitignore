@@ -1,1 +1,6 @@
 myvenv
+db.sqlite3
+*.pyc
+**/*/__pycache__
+**/*/migrations
+.DS_Store
