@@ -1,7 +1,6 @@
 myvenv
 db.sqlite3
 *.pyc
-**/*/__pycache__
-**/*/migrations
+__pycache__
 .DS_Store
 /static
